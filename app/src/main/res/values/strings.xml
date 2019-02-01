@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_Day6 Orientation</string>
+
+    <string name="button1">первая кнопка</string>
+    <string name="button2">вторая кнопка</string>
+    <string name="button3">третья кнопка</string>
+    <string name="button4">четвертая кнопка</string>
+    <string name="button5">пятая кнопка</string>
+    <string name="button6">шестая кнопка</string>
+    <string name="button7">седьмая кнопка</string>
+    <string name="button8">восьмая кнопка</string>
+    <string name="button9">девятая кнопка</string>
+    <string name="button10">десятая кнопка</string>
+</resources>
